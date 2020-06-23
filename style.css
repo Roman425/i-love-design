@@ -1,0 +1,18 @@
+section {
+  background-color: #23232d;
+  text-align: center;
+  color: white;
+  margin-top: 5px;
+  margin-bottom: 3px;
+}
+p {
+  background-color: whitesmoke;
+  text-align: center;
+  color: #23232d;
+  padding: 3px;
+  margin-left: 550px;
+  margin-right: 550px;
+}
+h1 {
+  font-size: xx-large;
+}
